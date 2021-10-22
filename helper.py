@@ -1,5 +1,5 @@
 import os
-import time
+import timeo
 turnCount=0
 working=1
 while working:
